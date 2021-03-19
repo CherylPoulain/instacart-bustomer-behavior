@@ -1,2 +1,2 @@
 # instacart-bustomer-behavior
-Analysis of purchasing behaviors of customers all over the United States. Customer profiles created to help guide marketing strategies to maximize sales. Used Python, Jupyter Notebook, Pandas, NumPy, Matplotlib and Excel.
+Instacart stakeholders are eager to increase sales. To do so, they're considering targeting different customers to see which compaigns would be effective. Purchasing behaviors from all over the United States were analyzed to identify buying trends and create customer profiles. These insights and profiles resulted in marketing strategy suggestions for maximized sales. Project utilized Python, Jupyter Notebook, Pandas, NumPy, Matplotlib and Excel.
